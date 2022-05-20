@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "Aragorn",
+      "job": "Human"
+    },
+    {
+      "name": "Gimli",
+      "job": "Dwarf"
+    }
+  ]
+}
